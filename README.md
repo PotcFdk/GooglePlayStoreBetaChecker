@@ -1,5 +1,21 @@
 # Google Play Store Beta Checker
-This userscript checks if a beta program is available or active for any given app.
+This userscript checks if a beta program is available or active for any app on the Google Play Store.
+
+If there is a beta available or active, the script adds a clickable text that takes you to the beta page where you can enable or disable the beta program for the given app.
+
+## Screenshots for reference
+
+### Loading status
+![loading status](https://i.imgur.com/7IMsRPP.png)
+
+### No beta available
+![no beta](https://i.imgur.com/9R0FlqD.png)
+
+### Beta available
+![beta available](https://i.imgur.com/tOM5Svw.png)
+
+### Beta active / installed
+![beta active](https://i.imgur.com/CPDCw89.png)
 
 ## Installation
 1. Install [Greasemonkey](https://addons.mozilla.org/en-us/firefox/addon/greasemonkey/) (Firefox) or [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) (Chrome) / [Tampermonkey](https://addons.opera.com/en/extensions/details/tampermonkey-beta/) (Opera).
